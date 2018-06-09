@@ -12,3 +12,8 @@ PCB top view
 PCB bottom view
 
 ![pcb_bottom](img/pcb_bottom.png)
+
+
+PCB measurements
+
+![pcb_measurements](img/pcb_measurements.png)
